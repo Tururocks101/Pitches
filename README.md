@@ -25,9 +25,7 @@ The user can:
     Python3.6
     Flask
     Bootstrap
-    Postgres
     flask-SQLAlchemy
-    psycopg2
     CSS
 
 
